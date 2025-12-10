@@ -52,11 +52,11 @@ A curious and patient software developer just trying to learn more and explore t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishangmmenon&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishangmmenon&theme=tokyonight" alt="Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishangmmenon&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishangmmenon&theme=tokyonight" alt="Languages" />
 
-<img src="https://streak-stats.demolab.com?user=krishangmmenon&theme=tokyonight&date_format=%5BY.%5Dn.j&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishangmmenon&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
