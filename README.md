@@ -52,11 +52,11 @@ A curious and patient software developer just trying to learn more and explore t
 
 <div align="center">
 
-![Krishang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishangmmenon&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=krishangmmenon&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishangmmenon&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishangmmenon&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=krishangmmenon&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=krishangmmenon&theme=tokyonight&date_format=%5BY.%5Dn.j&cache_seconds=86400" />
 
 </div>
 
